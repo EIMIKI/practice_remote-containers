@@ -1,0 +1,2 @@
+# practice_remote-containers
+VSCode拡張機能であるremote-containersの検証
